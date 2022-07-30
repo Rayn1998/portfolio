@@ -1,0 +1,6 @@
+.footer__wrapper {
+    padding: 80px 424px 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 60px;
+}

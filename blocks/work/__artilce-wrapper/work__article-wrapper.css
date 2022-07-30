@@ -1,0 +1,6 @@
+.work__article-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    padding-top: 183px;
+}

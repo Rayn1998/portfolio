@@ -1,0 +1,8 @@
+.about-me__text-content {
+    width: 100%;
+    min-height: 292px;
+    padding: 278px 0;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}

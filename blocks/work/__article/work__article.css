@@ -1,0 +1,4 @@
+.work__article {
+    display: flex;
+    gap: 32px;
+}
