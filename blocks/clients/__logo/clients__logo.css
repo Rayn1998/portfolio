@@ -1,0 +1,5 @@
+@media screen and (max-width: 1280px) {
+    .clients__logo {
+        height: 40px;
+    }
+}

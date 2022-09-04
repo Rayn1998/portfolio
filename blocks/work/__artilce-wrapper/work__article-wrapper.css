@@ -4,3 +4,9 @@
     gap: 32px;
     padding-top: 183px;
 }
+
+@media screen and (max-width: 1280px) {
+    .work__article-wrapper {
+        padding-top: 0;
+    }
+}
